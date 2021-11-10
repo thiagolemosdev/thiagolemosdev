@@ -2,6 +2,8 @@
 - 👀  I’m interested in Front-end development
 - 🌱  I’m currently studing JS, HTML and CSS3
 
+##
+
 <div align="center">
   <a href="https://github.com/thiagolemosdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolemosdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
