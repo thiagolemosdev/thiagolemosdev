@@ -1,6 +1,8 @@
-## Oláaaaa, eu sou o Thiago Lemos
-- 👀  Estou interessado em projetos e vagas de desenvolvimento Front-End
-- 🌱  Atualmente eu estou estudando Javascript, Typescript, Node.js
+## Hiii, i'am Thiago Lemos
+<!-- - 👀  Estou interessado em projetos e vagas de desenvolvimento Front-End -->
+- 👀  I have interesting in front-end projects and Jobs
+<!-- - 🌱  Atualmente eu estou estudando Javascript, Typescript, Node.js -->
+- 🌱  Currently I'am studing Javascript, Typescript and NodeJS. I pretend to study ReactJS and NodeJS soon.
 
 ##
 
